@@ -20,12 +20,12 @@ Once data has been entered into a field and the 'Enter' button is pressed, the d
 
 ## Summary:
 
-A drawback to the webpage is the filter can only look at one id at a time. For example you cannot look at the state of California and Kentucky at the same time.
+While this first stab at an interactive table is powerful and informative, it does have some drawbacks.
+- There is no real enforcement of proper entries in the fields.  For instance, one could enter '13' in all of the fields.  Of course, the table would be empty in that case.
+- The 'Comments' field of the table has some formatting errors for special characters.
+- The 'Duration' field of the table is a string and not a numeric value.
 
-Drop down menu where you can pick multiple criteria would eliminate this drawback.
-Also the ability to sort the table by more recent or least recent would improve user experience.
-
-###  Languages:
-JavaScript
-HTML
-CSS
+Some suggestions for improvement include, but are not limited to, the following:
+- Make the entry fields more 'intelligent', such that they enforce entry types.
+- Create context-sensitive text instructions when hovering over input fields.
+- Create a date range complex input field.
