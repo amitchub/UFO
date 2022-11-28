@@ -2,7 +2,6 @@
 <img src="Resources/UFO.png">
 
 ## Overview of the analysis:
-The purpose is well defined (2 pt)
 The purpose of this webpage is to display the data set of UFO sightings in the form of a table with filtering abilities. The table is dynamic and can be filtered by date, city, state, country, and shape.
 
 ## Results:
