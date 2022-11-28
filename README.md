@@ -10,10 +10,12 @@ The UFO sightings webpage is designed to show data of UFO sightings.  This is do
 
 ## Project Analysis Results:
 
-
-To the left of the table is a filter search box. There you can enter a date, city, state, country, or shape and the table will update when a character is present and enter is pressed. Below are two examples of how searched for El Cajon, CA and KY are displayed.
+To the left of the dynamic results table is a series of filter search boxes.  Each one of these fields support one the five aforementioned criteria:
 
 <img src="https://github.com/amitchub/UFO/blob/main/Resources/filters.PNG">
+
+Once data has been entered into a field and the 'Enter' button is pressed, the dynamic table will populate with any results that correspond to the criteria:
+
 <img src="https://github.com/amitchub/UFO/blob/main/Resources/results_mi.PNG">
 
 ## Summary:
