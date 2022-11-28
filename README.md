@@ -1,10 +1,15 @@
-# UFO Sightings Webpage
-<img src="Resources/UFO.png">
+# UFO Sightings Module 11 Challenge
 
-## Overview of the analysis:
-The purpose of this webpage is to display the data set of UFO sightings in the form of a table with filtering abilities. The table is dynamic and can be filtered by date, city, state, country, and shape.
+## Overview of the project analysis
+The UFO sightings webpage is designed to show data of UFO sightings.  This is done via a filtered table.  The filtering can be performed on the following criteria:
+- Date
+- City
+- State
+- Country
+- Shape
 
-## Results:
+## Project Analysis Results:
+
 
 To the left of the table is a filter search box. There you can enter a date, city, state, country, or shape and the table will update when a character is present and enter is pressed. Below are two examples of how searched for El Cajon, CA and KY are displayed.
 
